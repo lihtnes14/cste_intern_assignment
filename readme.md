@@ -44,10 +44,6 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```bash
 pip install -r requirements.txt
 ```
-### 4. Set up .env
-
-key=YOUR_YOUTUBE_API_KEY
-GROQ_API_KEY=YOUR_GROQ_API_KEY
 
 ### 5. Run the app
 ```bash
