@@ -32,3 +32,26 @@ A **Streamlit app** that lets you search for recent and relevant YouTube videos 
 ```bash
 git clone https://github.com/yourusername/youtube-video-finder.git
 cd youtube-video-finder
+```
+
+### 2. Create a Virtual Environment
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
+
+### 3. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### 4. Set up .env
+
+key=YOUR_YOUTUBE_API_KEY
+GROQ_API_KEY=YOUR_GROQ_API_KEY
+
+### 5. Run the app
+```bash
+streamlit run app.py
+```
+
+
