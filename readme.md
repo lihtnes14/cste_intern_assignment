@@ -30,7 +30,8 @@ A **Streamlit app** that lets you search for recent and relevant YouTube videos 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/lihtnes_14/youtube-video-finder.git
+git clone https://github.com/lihtnes_14/find-flix-ai-groq-llama6383
+.git
 cd youtube-video-finder
 ```
 
